@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # coding:utf-8
 # auther: rongliner
-import urllib
 import urllib2
 """
 获取城市天气代码（执行的时候比较慢,需要优化）
