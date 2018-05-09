@@ -35,7 +35,7 @@ if citycode:
     except:
         print "查询失败"
 else:
-    print "没有找到该城市"
+    print "没有找到该城市" 
 
 
 
